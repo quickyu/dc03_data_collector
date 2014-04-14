@@ -1,0 +1,192 @@
+Dependencies for Project 'DC03_data_collector', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\lib\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\core_cm3.o" --omf_browse ".\output\core_cm3.crf" --depend ".\output\core_cm3.d")
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+F (.\src\lib\misc.c)(0x509B653B)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\misc.o" --omf_browse ".\output\misc.crf" --depend ".\output\misc.d")
+I (.\src\include\misc.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_gpio.c)(0x509A03B5)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_gpio.o" --omf_browse ".\output\stm32f10x_gpio.crf" --depend ".\output\stm32f10x_gpio.d")
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\src\lib\stm32f10x_rcc.c)(0x509A0455)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_rcc.o" --omf_browse ".\output\stm32f10x_rcc.crf" --depend ".\output\stm32f10x_rcc.d")
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_usart.c)(0x509B64F0)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_usart.o" --omf_browse ".\output\stm32f10x_usart.crf" --depend ".\output\stm32f10x_usart.d")
+I (.\src\include\stm32f10x_usart.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\src\lib\system_stm32f10x.c)(0x53323EDB)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\system_stm32f10x.o" --omf_browse ".\output\system_stm32f10x.crf" --depend ".\output\system_stm32f10x.d")
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_tim.c)(0x53322DD5)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_tim.o" --omf_browse ".\output\stm32f10x_tim.crf" --depend ".\output\stm32f10x_tim.d")
+I (.\src\include\stm32f10x_tim.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\src\lib\stm32f10x_flash.c)(0x53325F07)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_flash.o" --omf_browse ".\output\stm32f10x_flash.crf" --depend ".\output\stm32f10x_flash.d")
+I (.\src\include\stm32f10x_flash.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_crc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_crc.o" --omf_browse ".\output\stm32f10x_crc.crf" --depend ".\output\stm32f10x_crc.d")
+I (.\src\include\stm32f10x_crc.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_pwr.c)(0x53326AEE)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_pwr.o" --omf_browse ".\output\stm32f10x_pwr.crf" --depend ".\output\stm32f10x_pwr.d")
+I (.\src\include\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\src\lib\stm32f10x_exti.c)(0x5332792B)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_exti.o" --omf_browse ".\output\stm32f10x_exti.crf" --depend ".\output\stm32f10x_exti.d")
+I (.\src\include\stm32f10x_exti.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\lib\stm32f10x_iwdg.c)(0x5347926F)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\stm32f10x_iwdg.o" --omf_browse ".\output\stm32f10x_iwdg.crf" --depend ".\output\stm32f10x_iwdg.d")
+I (.\src\include\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+F (.\src\main.c)(0x53479F0E)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\main.o" --omf_browse ".\output\main.crf" --depend ".\output\main.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (src\gpio_def.h)(0x534608C9)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (src\init_periph.h)(0x534792A9)
+I (src\save_count.h)(0x5345FC8E)
+I (src\serial.h)(0x533381E0)
+I (.\src\include\stm32f10x_usart.h)(0x4D783BB4)
+I (src\comm.h)(0x5333BA7A)
+I (src\ticktack.h)(0x5333AAFD)
+I (src\ir_decode.h)(0x53476EA9)
+I (.\src\include\stm32f10x_tim.h)(0x4D783BB4)
+I (src\remote_control.h)(0x53476FFF)
+F (.\src\RTX_Conf.c)(0x53477CDC)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\rtx_conf.o" --omf_browse ".\output\rtx_conf.crf" --depend ".\output\rtx_conf.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (d:\Keil\ARM\RV31\INC\RTX_lib.c)(0x51008BDC)
+F (.\src\startup_stm32f10x_md.s)(0x5330DFA8)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x --list ".\output\startup_stm32f10x_md.lst" --xref -o ".\output\startup_stm32f10x_md.o" --depend ".\output\startup_stm32f10x_md.d")
+F (.\src\Retarget.c)(0x509A0B95)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\retarget.o" --omf_browse ".\output\retarget.crf" --depend ".\output\retarget.d")
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdio.h)(0x516E81E6)
+I (d:\Keil\ARM\ARMCC\bin\..\include\time.h)(0x516E81E6)
+I (d:\Keil\ARM\ARMCC\bin\..\include\rt_misc.h)(0x4EB0D280)
+F (.\src\serial.c)(0x53339166)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\serial.o" --omf_browse ".\output\serial.crf" --depend ".\output\serial.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (src\serial.h)(0x533381E0)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_usart.h)(0x4D783BB4)
+F (.\src\led_digital.c)(0x534785E3)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\led_digital.o" --omf_browse ".\output\led_digital.crf" --depend ".\output\led_digital.d")
+I (.\src\include\stm32f10x_tim.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (d:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x516E81E6)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (src\gpio_def.h)(0x534608C9)
+F (.\src\init_periph.c)(0x5347935A)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\init_periph.o" --omf_browse ".\output\init_periph.crf" --depend ".\output\init_periph.d")
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\src\include\stm32f10x_exti.h)(0x4D783BB4)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\src\include\stm32f10x_iwdg.h)(0x4D783BB4)
+I (.\src\include\misc.h)(0x4D783BB4)
+I (src\gpio_def.h)(0x534608C9)
+F (.\src\save_count.c)(0x53460228)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\save_count.o" --omf_browse ".\output\save_count.crf" --depend ".\output\save_count.d")
+I (.\src\include\stm32f10x_pwr.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_exti.h)(0x4D783BB4)
+I (.\src\include\stm32f10x_flash.h)(0x4D783BB4)
+I (.\src\include\stm32f10x_crc.h)(0x4D783BB4)
+I (src\save_count.h)(0x5345FC8E)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (src\ticktack.h)(0x5333AAFD)
+I (src\gpio_def.h)(0x534608C9)
+F (.\src\comm.c)(0x5333D14C)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\comm.o" --omf_browse ".\output\comm.crf" --depend ".\output\comm.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (d:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x516E81E6)
+I (src\serial.h)(0x533381E0)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_usart.h)(0x4D783BB4)
+I (src\ticktack.h)(0x5333AAFD)
+I (src\comm.h)(0x5333BA7A)
+F (.\src\ticktack.c)(0x53479F16)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\ticktack.o" --omf_browse ".\output\ticktack.crf" --depend ".\output\ticktack.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_iwdg.h)(0x4D783BB4)
+I (src\gpio_def.h)(0x534608C9)
+I (src\ticktack.h)(0x5333AAFD)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+F (.\src\ir_decode.c)(0x53474B10)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\ir_decode.o" --omf_browse ".\output\ir_decode.crf" --depend ".\output\ir_decode.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (.\src\include\stm32f10x_tim.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (.\src\include\stm32f10x_rcc.h)(0x4D783BB4)
+I (src\ir_decode.h)(0x53476EA9)
+I (src\gpio_def.h)(0x534608C9)
+F (.\src\remote_control.c)(0x53479E6E)(-c --cpu Cortex-M3 -D__RTX -g -O0 --apcs=interwork -I.\src\include -I d:\Keil\ARM\RV31\INC -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\output\remote_control.o" --omf_browse ".\output\remote_control.crf" --depend ".\output\remote_control.d")
+I (d:\Keil\ARM\RV31\INC\RTL.h)(0x51428FFE)
+I (d:\Keil\ARM\ARMCC\bin\..\include\string.h)(0x516E81E6)
+I (src\remote_control.h)(0x53476FFF)
+I (src\ir_decode.h)(0x53476EA9)
+I (.\src\include\stm32f10x_tim.h)(0x4D783BB4)
+I (.\src\include\stm32f10x.h)(0x50A05A29)
+I (.\src\include\core_cm3.h)(0x4D523B58)
+I (d:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516E81E6)
+I (.\src\include\system_stm32f10x.h)(0x4D783CAA)
+I (src\led_digital.h)(0x534781C7)
+I (.\src\include\stm32f10x_gpio.h)(0x4D783BB4)
+I (src\ticktack.h)(0x5333AAFD)
